@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: João Marcelo Cardoso Silva Ferreira 
+Matricula: 894009
 
 ## Tela de inspeção com navegador
-
+![imagem_7.1](./7.1.png)  
 
 ## Tela de projeto no Replit
-
+![imagem_7.2](./7.2.png)
